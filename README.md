@@ -1,1 +1,1 @@
-# reak-time-object-detection-flutter
+# real-time-object-detection-flutter
